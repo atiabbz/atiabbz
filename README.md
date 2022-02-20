@@ -1,3 +1,1 @@
-# Atiab 🧃
-
 ![banner](banner.png)
